@@ -1,4 +1,4 @@
-# Tasuku
+# Tasuku 2
 
 Tasuku es una innovadora aplicación web diseñada para facilitar la gestión de tareas y proyectos, ofreciendo una solución integral que se enfoca en la simplicidad y eficiencia. Nuestra plataforma permite a los usuarios organizar sus proyectos, tareas y deadlines de manera efectiva, promoviendo una mayor productividad y eficiencia.
 
